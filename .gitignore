@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Large medical data
+*.nii
+*.nii.gz
+*.npy
+*.npz
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
